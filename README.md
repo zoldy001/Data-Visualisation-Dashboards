@@ -1,5 +1,17 @@
 # Data Visualisation Dashboards
 
+## Sales
+
+This Dashboard is provides insights into key business performance metrics, including **profitability, revenue, and product-level performance.** It combines dynamic visualizations with interactive filters to enable in-depth analysis across dimensions such as region, category, sub-category, and time period.
+
+The dashboard highlights essential KPIs, such as year-to-date (YTD) profit, revenue, profit margin, and year-over-year (YoY) growth rates, offering a clear snapshot of overall business performance. It includes detailed breakdowns of highest-grossing, top-selling, and lowest-performing products, allowing for targeted decision-making.
+
+  <img src="./img/sales.png" alt="Local Image" style="width:100%; height:auto;">
+
+Key visualizations, such as a treemap of sub-category profits, a bar chart of revenue and profit by product, and a line chart of quarterly profit trends, provide actionable insights into sales trends and profit drivers. A detailed table further supports granular analysis, presenting metrics like YTD profit, YoY sales growth, and units sold for individual products.
+
+This dashboard is a powerful tool for identifying high-performing segments, addressing underperforming areas, and tracking business growth over time, enabling data-driven decision-making at every level.
+
 ## Amazon Reviews Analytics
 
 This project analyzes a dataset of 1,597 Amazon customer reviews, representing $152.51K in revenue. Sentiment analysis, powered by NLP, was performed on the text reviews to categorize feedback into positive, neutral, and negative sentiments. The dashboard provides an interactive interface for exploring trends in customer reviews and pricing, helping to uncover factors correlating with review sentiments.
