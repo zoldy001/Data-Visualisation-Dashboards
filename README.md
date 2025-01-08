@@ -1,16 +1,53 @@
 # Data Visualisation Dashboards
 
-## Sales
+## Product Performance Report 
 
-This Dashboard is provides insights into key business performance metrics, including **profitability, revenue, and product-level performance.** It combines dynamic visualizations with interactive filters to enable in-depth analysis across dimensions such as region, category, sub-category, and time period.
-
-The dashboard highlights essential KPIs, such as year-to-date (YTD) profit, revenue, profit margin, and year-over-year (YoY) growth rates, offering a clear snapshot of overall business performance. It includes detailed breakdowns of highest-grossing, top-selling, and lowest-performing products, allowing for targeted decision-making.
+This Dashboard presents granular insights into product-level performance for an e-commerce buisness, showing which products drive profitability, contribute to revenue growth, and align with sales objectives. The key goal is helping with invenotry managment, strategic planing and product offering optimizations.
 
   <img src="./img/sales.png" alt="Local Image" style="width:100%; height:auto;">
 
-Key visualizations, such as a treemap of sub-category profits, a bar chart of revenue and profit by product, and a line chart of quarterly profit trends, provide actionable insights into sales trends and profit drivers. A detailed table further supports granular analysis, presenting metrics like YTD profit, YoY sales growth, and units sold for individual products.
+Aiming to answer questions:
+- Top-Performing Products
+  - Which products generate the highest revenue and profit?
+  - What are the YoY growth rates for sales and profit of these products?
+  - How many units of top-performing products are sold?
+- Underperforming Products
+  - Which products are contributing the least to revenue and profit?
+  - What is the sales trend for low-performing products, and should they be re-evaluated?
+- Sales Trends and Seasonal Patterns
+  - How do profits and sales trends vary over time?
+  - Are there patterns that suggest seasonality or high-demand periods for certain products?
+- Regional and Product Category Breakdown
+  - How does product performance vary across regions or categories?
+  - Are there regional markets with high potential for specific products?
+ 
+## Digital Marketing
 
-This dashboard is a powerful tool for identifying high-performing segments, addressing underperforming areas, and tracking business growth over time, enabling data-driven decision-making at every level.
+Interactive Digital Marketing dashboard which provides a data-driven overview of marketing campaigns performance, focusing on key metrics like ROI, reach, engagement, and audience segmentation. Designed to support strategic planning and real-time optimization, it offers detailed insights into campaign efficiency, channel performance, temporal trends, and audience behavior.
+
+  <img src="./img/marketing.png" alt="Local Image" style="width:100%; height:auto;">
+  
+Aiming to answer questions:
+
+- Campaign Effectiveness
+  -	Which marketing channels drive the highest impressions, clicks, and conversions?
+  -	What is the ROI for each marketing channel?
+  -	Are there any campaigns underperforming in terms of cost per click (CPC) or engagement score?
+    
+- Audience Segmentation
+  - Which audience segments (e.g., age groups or gender) generate the most clicks and conversions?
+  - Are there segments with low engagement that require tailored strategies?
+  - How is performance distributed across audience segments, and are there growth opportunities?
+
+- Cost and Revenue Analysis
+  - What is the cost per click (CPC), and how does it compare to the previous period?
+  - What is the total ROI, and which channels or campaigns are contributing the most to profitability?
+  - Are there opportunities to reduce CPC or improve ROI across campaigns?
+  
+- Performance Trends
+  - How do impressions, clicks, and conversions trend over time?
+  - Are there seasonal patterns influencing campaign performance?
+  - Are there specific months with higher engagement that can guide future campaign planning?
 
 ## Amazon Reviews Analytics
 
@@ -18,39 +55,9 @@ This project analyzes a dataset of 1,597 Amazon customer reviews, representing $
 
   <img src="./img/amazon.png" alt="Local Image" style="width:100%; height:auto;">
 
-- KPI Overviews of average rating, sentiment breakdown, total reviews and revenue
-- Top reviewed products
-- Sentiment Trends Over Time
-- Distribution of Ratings
-- Pricing and Customer Satisfaction
-- Interactive breakdown by Year, Price, User Rating, Review Lenght and Sentiment dynamically adjust KPIs and graphs for detailed exploration
-
-## Digital Marketing Performance
-
-This interactive dashboard provides a data-driven overview of a digital marketing campaign’s performance, focusing on key metrics like ROI, reach, engagement, and audience segmentation. Designed to support both strategic planning and real-time optimization, it offers detailed insights into campaign efficiency, channel performance, temporal trends, and audience behavior.
-
-  <img src="./img/marketing.png" alt="Local Image" style="width:100%; height:auto;">
-
-Campaign Performance Metrics
--	Overall ROI tracking with year-over-year comparison
--	Total reach visualization (e.g., 1 billion impressions)
--	Engagement analysis: clicks, conversions, and cost-per-click ($22.74 CPC)
-  
-Audience Demographics
-- Distribution of clicks across age and gender segments
-- Identification of high-engagement demographics (e.g., Men 25-34, Women 25-34)
-- Segmentation of audience groups, including Health & Wellness, Foodies, and Tech Enthusiasts
-
-Channel Performance Analysis
-- Comparison of metrics across platforms like YouTube, Instagram, and websites
-- Channel-specific ROI, CPC, and engagement scores
-- Insights into the best-performing audience segments on each platform
-  
-Temporal Trends
-- Visualization of impressions and engagement over time
-- Detection of cyclical patterns and seasonal peaks (e.g., March, May, July 2021)
-- Recovery trend analysis after performance dips
-  
-Interactive Filters
-- Filters for campaign type, audience segment, company, customer segment, and date range
-- Deep-dive analysis into specific time periods or target groups
+- How do review counts compare across different products?
+- What is the overall distribution of review sentiments (positive, neutral, negative)?
+- Are there significant shifts in sentiment over time?
+- Do most products receive favorable feedback, or is there a substantial volume of negative ratings?
+- Do higher-priced products correlate with better or worse average ratings?
+- Do review lengths correlate with positive or negative sentiments?
