@@ -2,7 +2,7 @@
 
 ## Product Performance Report 
 
-This Dashboard presents granular insights into product-level performance for an e-commerce buisness, showing which products drive profitability, contribute to revenue growth, and align with sales objectives. The key goal is helping with invenotry managment, strategic planing and product offering optimizations.
+This Dashboard presents granular insights into product-level performance for an e-commerce buisness, showing which products drive profitability, contribute to revenue growth, and align with sales objectives. The main goals are helping with invenotry managment, strategic planing and product offering optimizations.
 
   <img src="./img/sales.png" alt="Local Image" style="width:100%; height:auto;">
 
