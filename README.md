@@ -6,7 +6,7 @@ This Dashboard presents granular insights into product-level performance for an 
 
   <img src="./img/sales.png" alt="Local Image" style="width:100%; height:auto;">
 
-Aiming to answer questions:
+Answering questions:
 - Top-Performing Products
   - Which products generate the highest revenue and profit?
   - What are the YoY growth rates for sales and profit of these products?
@@ -55,6 +55,7 @@ This project analyzes a dataset of 1,597 Amazon customer reviews, representing $
 
   <img src="./img/amazon.png" alt="Local Image" style="width:100%; height:auto;">
 
+Answering questions:
 - How do review counts compare across different products?
 - What is the overall distribution of review sentiments (positive, neutral, negative)?
 - Are there significant shifts in sentiment over time?
